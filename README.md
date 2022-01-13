@@ -2,8 +2,17 @@
 
 This repository contains the code for homework 4 of 2021 Fall Selected Topics in Visual Recognition using Deep Learning.
 
-## Installation
-
+## Requirements
+```
+Pillow
+torch==1.7.0
+torchvision==0.8.1
+PyYAML>=5.3.1
+tqdm>=4.41.0
+imageio
+tensorboardX
+six
+```
 
 ## Dataset Preparation
 1. Download the dataset from the [Google Drive](https://drive.google.com/file/d/1GL_Rh1N-WjrvF_-YOKOyvq0zrV6TF4hb/view)
